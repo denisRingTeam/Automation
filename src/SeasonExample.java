@@ -33,7 +33,7 @@ public class SeasonExample {
                 System.out.println(Season.AUTUM);
                 break;
             default:
-                System.out.println("No this month");
+                System.out.println("No this month!");
         }
     }
 }
